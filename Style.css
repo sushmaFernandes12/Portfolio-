@@ -269,7 +269,7 @@ nav {
 }
 .typing::after {
   
-  animation: typing 4s steps(30) infinite;
+  
   white-space: nowrap;
   overflow: hidden;
 }
