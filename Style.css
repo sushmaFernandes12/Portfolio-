@@ -268,7 +268,7 @@ nav {
   background: #0056b3;
 }
 .typing::after {
-  content: "BCA Student | Web Developer";
+  content: "BCA Student | Software Developer";
   animation: typing 4s steps(30) infinite;
   white-space: nowrap;
   overflow: hidden;
